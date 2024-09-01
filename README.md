@@ -4,6 +4,6 @@
 
 I do stuff with computers
 
-### Code Crafter Challenges
+### Code Crafter Challenges - CPP
 
 ![Grep Code Crafters](https://backend.codecrafters.io/progress/grep/495e2d79-04b1-457c-bd10-de4bce4cc07b)
