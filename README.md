@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/thurling/image/upload/v1725175167/Screenshot_2024-09-01_at_09.16.43_hakdbe.png" alt="Description" style="width:100%;">
+<img width="1703" alt="Thurling Media Explorer Sept 01 Screenshot" src="https://github.com/user-attachments/assets/e834a3ba-de39-4f83-b84e-d704814a1071">
 
 ## Hi there 👋 I do stuff with computers
 -----
