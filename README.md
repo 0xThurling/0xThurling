@@ -8,8 +8,3 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xThurling&layout=compact&langs_count=8&card_width=360" />
 </a>
-
-### Code Crafter Challenges - Big CPP Energy
-
-![Grep Code Crafters](https://backend.codecrafters.io/progress/grep/495e2d79-04b1-457c-bd10-de4bce4cc07b)
-![Redis Code Crafters](https://backend.codecrafters.io/progress/redis/01aba5af-b6cb-4144-bba9-cefbcecd2583)
